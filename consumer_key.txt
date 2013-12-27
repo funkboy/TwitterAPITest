@@ -1,0 +1,3 @@
+Consumer Key:[Your consumer key here DO NOT include the brackets]
+consumer secret:[Your consumer key secret here DO NOT include the brackets]
+bearer token:[Your bearer token here DO NOT include the brackets, it is optional, you need to run the code once to obtain it]
